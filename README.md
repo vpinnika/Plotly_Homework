@@ -8,5 +8,4 @@ https://vpinnika.github.io/D3-challenge/.
 
 ![Image2](Images/Image-2.PNG)
 
-![Image3](Images/Image-3.PNG)
 
